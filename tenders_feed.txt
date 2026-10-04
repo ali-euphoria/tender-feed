@@ -1,13 +1,20 @@
-TENDER FEED v1 | run 2026-10-03T20:06 PKT | ok=True
-SOURCE | Punjab eProc | OK | rows=184 | Loaded. 3 page(s), 184 rows.
+TENDER FEED v1 | run 2026-10-04T20:01 PKT | ok=True
+SOURCE | Punjab eProc | OK | rows=445 | Loaded. 5 page(s), 445 rows.
 SOURCE | PITB | OK | rows=30 | Loaded. 3 page(s), 30 rows.
-SOURCE | EPADS federal | FAILED | rows=783 | TimeoutError: Page.goto: Timeout 60000ms exceeded.
-ITEMS | 6 open relevant/adjacent | 0 new since this Mac's last run
+SOURCE | EPADS federal | FAILED | rows=0 | TimeoutError: Page.goto: Timeout 60000ms exceeded.
+ITEMS | 13 open relevant/adjacent | 0 new since this Mac's last run
 source | id | deadline_pkt | relevance | fit | new | title | agency | link
 PITB | PITB-EGOV-15 | 2026-10-07T23:59 | adjacent |  |  | PROVISIONING OF HR OUT-SOURCING, SCANNING, AND DATA ENTRY SERVICES FOR VARIOUS PROJECTS UNDER THE FRAMEWORK CONTRACT UNDER FRAMEWORK CONTRACT (EGOV-15) |  | https://pitb.gov.pk/system/files/BD_EGOV-15_Published.pdf
 PITB | PITB-EGOV-14 | 2026-10-07T23:59 | relevant |  |  | PROCUREMENT OF TOOLS FOR IOT LAB FOR MAKERSPACE PUNJAB PROJECT (EGOV-14) |  | https://pitb.gov.pk/system/files/BD_EGOV_14_Published.pdf
-PITB | PITB-EGOV-19 | 2026-10-09T23:59 | relevant | FIT |  | PROCUREMENT OF AR/VR HARDWARE FOR MAGNIFICENT PUNJAB PROJECT (EGOV-19) |  | https://pitb.gov.pk/system/files/BD_EGOV_19_Published_0.pdf
+Punjab eProc | PITB-EGOV-19 | 2026-10-09T23:59 | relevant | FIT |  | PROCUREMENT OF AR/VR HARDWARE FOR MAGNIFICENT PUNJAB PROJECT (EGOV-19) | Punjab Information Technology Board | https://eproc.punjab.gov.pk/Tenders/50485054/4857/2409202612183173786810256520.pdf
+Punjab eProc | PB-256599 | 2026-10-10T23:59 | adjacent |  |  | ROCUREMENT OF CCTV CAMERAS FOR ALLAMA IQBAL MEDICAL COLLEGE LAHORE ALONG WITH INSTALLATION Financial Year: 2026 - 27 | Allama Iqbal Medical College and Jinnah Hospital, Lahore | https://eproc.punjab.gov.pk/Tenders/50485054/4857/2509202603311947530633256599.pdf
+Punjab eProc | PB-256746 | 2026-10-14T23:59 | adjacent |  |  | PROVISION, PRINTING & COMPOSING OF RFID CARDS, HARD SHELLS AND LANYARDS | Fatima Jinnah Women University, Rawalpindi | https://eproc.punjab.gov.pk/Tenders/50485054/4857/2909202611495821473503256746.pdf
+Punjab eProc | PB-256609 | 2026-10-14T23:59 | adjacent |  |  | Hiring of Industry Training Partners for Advance Technology Program | Punjab Skills Development Fund | https://eproc.punjab.gov.pk/Tenders/50485054/4857/2509202605043870623715256609.pdf
+Punjab eProc | PB-256749 | 2026-10-15T23:59 | adjacent |  |  | PROCUREMENT OF ISS SURVEILLANCE ACCESSORIES / POWER BACKUP AT SUNDAR INDUSTRIAL ESTATE | Punjab Industrial Estate Development and Management Company | https://eproc.punjab.gov.pk/Tenders/50485054/4857/2909202612103962867675256749.pdf
+Punjab eProc | PB-256573 | 2026-10-15T23:59 | relevant |  |  | WALK IN REGISTRATION OF BIDDERS / FIRMS FOR LOCAL PURCHASE OF MEDICINES & SURGICAL DISPOSABLES ETC ON DAY TO DAY BASIS (LPDD) THROUGH PITB'S ONLINE PORTAL | Lady Aitchison Hospital, Lahore | https://eproc.punjab.gov.pk/Tenders/50485054/4857/2509202612160555443875256573.pdf
+Punjab eProc | PB-256526 | 2026-10-15T23:59 | adjacent |  |  | Various Items for the Establishment of AI R&D Lab in BZU | Bahauddin Zakariya University, Multan | https://eproc.punjab.gov.pk/Tenders/50485054/4857/2409202602193008372333256526.pdf
 Punjab eProc | PB-256972 | 2026-10-17T23:59 | adjacent |  |  | Hiring The Services On-Screen Marking System (OSM) & Digital Variable Printing of Answer Copies | Board of Intermediate and Secondary Education Sahiwal | https://eproc.punjab.gov.pk/Tenders/50485054/4948/0210202607203773313884256972.pdf
+Punjab eProc | PB-256845 | 2026-10-20T23:59 | relevant | FIT |  | Digitization & Automation of Punjab Auqaf Organization (Software Development) | Religious Affairs and Auqaf | https://eproc.punjab.gov.pk/Tenders/50485054/4857/3009202605332516765235256845.pdf
 Punjab eProc | PB-DC-06 | 2026-10-21T23:59 | relevant |  |  | PROCUREMENT OF IT HARDWARE/IT EQUIPMENT & WARRANTY RENEWAL FOR PITB DATA CENTER (DC-06) | Punjab Information Technology Board | https://eproc.punjab.gov.pk/Tenders/50485054/4948/0110202602382504805450256886.pdf
 PITB | PITB-DC-06 | 2026-10-21T23:59 | relevant |  |  | PROCUREMENT OF IT HARDWARE/IT EQUIPMENT & WARRANTY RENEWAL FOR PITB DATA CENTER (DC-06) |  | https://pitb.gov.pk/system/files/BD_DC_06_Published.pdf
 END
