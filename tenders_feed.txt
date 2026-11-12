@@ -1,7 +1,7 @@
-TENDER FEED v1 | run 2026-11-11T20:10 PKT | ok=False
+TENDER FEED v1 | run 2026-11-12T19:55 PKT | ok=False
 SOURCE | Punjab eProc | FAILED | rows=0 | https://eproc.punjab.gov.pk/ActiveTenders.aspx: Timed out: Page.goto: Timeout 120000ms exceeded.   http://eproc.punjab.gov.pk/ActiveTenders.aspx: Timed out: Page.goto: Timeout 120000ms exceeded.
-SOURCE | PITB | FAILED | rows=0 | https://pitb.gov.pk/tendernotices: Site returned HTTP 403 (blocked or down).
-SOURCE | EPADS federal | FAILED | rows=100 | TimeoutError: Page.goto: Timeout 120000ms exceeded.
+SOURCE | PITB | FAILED | rows=0 | https://pitb.gov.pk/tendernotices: Timed out: Page.goto: Timeout 120000ms exceeded.
+SOURCE | EPADS federal | FAILED | rows=980 | TimeoutError: Page.goto: Timeout 120000ms exceeded.
 ITEMS | 0 open relevant/adjacent | 0 new since this Mac's last run
 source | id | deadline_pkt | relevance | fit | new | title | agency | link
 END
